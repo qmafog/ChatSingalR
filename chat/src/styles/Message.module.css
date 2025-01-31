@@ -1,0 +1,29 @@
+
+.messageContainer {
+    display: flex;
+    flex-direction: column;
+    max-width: 70%;
+    padding: 8px;
+    border-radius: 8px;
+    margin: 5px 0;
+    background: #f3f3f3;
+}
+
+.userName {
+    font-size: 12px;
+    font-weight: bold;
+    color: #555;
+}
+
+.messageText {
+    font-size: 14px;
+    padding: 5px;
+    border-radius: 6px;
+}
+
+
+.messageBox {
+    align-self: flex-start;
+    background: #e5e5e5;
+    color: black;
+}
